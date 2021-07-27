@@ -5,13 +5,14 @@ You can use the [editor on GitHub](https://github.com/beast-dev/doc/edit/master/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Markdown
-
+Tremaine 
+Gree8
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Header 1p
 ## Header 2
 ### Header 3
 
@@ -41,7 +42,8 @@ These go in square brackets i.e., `[beauti]` will link to a page called BEAUti.h
 
 Use the 'image.html' include like this:
 
-`{% include image.html file="image1.png" %}`
+`{% include image.html file="image1.png
+.png" %}`
 
 This will link to images in the root level /images folder.
 
@@ -120,7 +122,7 @@ Finally there are some simple callout boxes that have a coloured bar on the left
 ```
 
 The `type` parameter controls the colour with the options being, danger, default, primary, success, info and warning --- [see here](http://idratherbewriting.com/documentation-theme-jekyll/mydoc_alerts.html#callouts).
-
+Tremaine johnson 
 Perhaps we can use these different colours with some conventions. For example, the `warning` type (which gives an orange side bar) can be used for setting questions:
 
 ```
